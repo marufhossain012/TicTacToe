@@ -3,10 +3,8 @@
  * constructor.  Creates a Game and manages the alternating calls to the
  * ‘place’ methods in Game.  Prompts the user for inputs and outputs the state
  * of the board to the console.
- *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Hossain Mohammad Maruf
  */
-
 import java.util.Scanner;
 
 public class ConsoleRunner {
